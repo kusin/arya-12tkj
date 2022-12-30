@@ -1,0 +1,159 @@
+/* ------------------------------------------------------ */
+/* CSS for article -------------------------------------- */
+/* ------------------------------------------------------ */
+.article {
+    display: inline-block;
+    background-color: none;
+    width: inherit;
+    height: auto;
+    margin: 0px 0px 10px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.article-header {
+    background-color: none;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 10px 0px 10px;
+}
+
+.article-body {
+    background-color: none;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 10px 0px 10px;
+}
+
+/* ------------------------------------------------------ */
+/* CSS for box ------------------------------------------ */
+/* ------------------------------------------------------ */
+.box {
+    display: inline-block;
+    background-color: #64dcc1;
+    width: inherit;
+    height: auto;
+    margin: 0px 0px 10px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.box-header {
+    background-color: yellow;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 10px 0px 10px;
+}
+
+.box-body {
+    background-color: none;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 5px 0px 5px;
+}
+
+/* ------------------------------------------------------ */
+/* CSS for table ---------------------------------------- */
+/* ------------------------------------------------------ */
+.show-table{
+    width: 815px;
+    margin-bottom: 10px;
+}
+
+.show-table, th, td {
+    border: 1px solid #333;
+    border-collapse: collapse;
+}
+
+.show-table tr:hover{
+    background-color: #ABDEC4;
+}
+
+th{
+    background-color: #E0DBC5;
+    text-align: left;
+    vertical-align: baseline;
+    margin: 0px 0px 0px 0px;
+    padding: 15px 5px 15px 5px;
+}
+
+td{
+    background-color: none;
+    text-align: left;
+    vertical-align: baseline;
+    margin: 0px 0px 0px 0px;
+    padding: 5px 10px 5px 10px;
+}
+
+/* ------------------------------------------------------ */
+/* CSS for Pagination ------------------------------------ */
+/* ------------------------------------------------------ */
+.pagination{
+    display: inline-flex;
+    background-color: none;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 10px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.pagination a{
+    border: 1px black solid;
+    display: inline-block;
+    background-color: none;
+    text-decoration: none;
+    width: auto;
+    height: auto;
+    margin: 0px 5px 0px 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+.pagination a.active{
+    background-color: #FFFF00;
+}
+
+.pagination a:hover{
+    background-color: #64dcc1;
+}
+
+/* ------------------------------------------------------ */
+/* CSS for Galeri ------------------------------------ */
+/* ------------------------------------------------------ */
+.gallery {
+    float: left;
+    background-color: #64dcc1;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 30px 0px;
+    padding: 0px 10px 0px 10px;
+}
+
+.gallery-body {
+    background-color: yellow;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 10px 0px 10px;
+}
+
+.gallery-footer {
+    background-color: green;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 10px 0px 10px;
+}
+
+/* ------------------------------------------------------ */
+/* CSS for div-sub-header ------------------------------- */
+/* ------------------------------------------------------ */
+.div-sub-header{
+    display: block;
+    background-color: #64dcc1;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 10px 0px;
+    padding: 0px 10px 0px 10px;
+}

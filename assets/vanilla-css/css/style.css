@@ -1,0 +1,73 @@
+/* ------------------------------------------------------ */
+/* CSS for wrapper -------------------------------------- */
+/* ------------------------------------------------------ */
+.wrapper {
+    border: 0px solid black;
+    width: 1200px;
+    height: auto;
+    margin: auto;
+}
+
+/* ------------------------------------------------------ */
+/* CSS for header --------------------------------------- */
+/* ------------------------------------------------------ */
+.header {
+    background-color: #FCD0B1;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+    height: 100px;
+    margin: 0px 0px 5px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+/* ------------------------------------------------------ */
+/* CSS for navbar --------------------------------------- */
+/* ------------------------------------------------------ */
+.navbar {
+    background-color: #E0DBC5;
+    display: inline-flex;
+    width: 1200px;
+    height: 50px;
+    margin: 0px 0px 5px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+/* ------------------------------------------------------ */
+/* CSS for content --------------------------------------- */
+/* ------------------------------------------------------ */
+.content{
+    display: inline-flex;
+    width: 1200px;
+    height: auto;
+}
+
+.content-left {
+    background-color: #E1F5C8;
+    display: inline-block;
+    width: 835px;
+    height: auto;
+    margin: 0px 5px 5px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.content-right {
+    background-color: #ABDEC4;
+    display: inline-block;
+    width: 360px;
+    height: auto;
+    margin: 0px 0px 5px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.footer {
+    background-color: #FCD0B1;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+    height: 50px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}

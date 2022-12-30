@@ -1,0 +1,13 @@
+.navbar a {
+    color: #333;
+    display: inline-block;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 14px 10px 14px 10px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #c3b98e;
+}
