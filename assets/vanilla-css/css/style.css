@@ -2,7 +2,8 @@
 /* CSS for wrapper -------------------------------------- */
 /* ------------------------------------------------------ */
 .wrapper {
-    border: 0px solid black;
+    border: 5px solid black;
+    background-color: black;
     width: 1200px;
     height: auto;
     margin: auto;
