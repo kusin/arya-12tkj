@@ -57,17 +57,17 @@
         <!-- --------------------------------------------------- -->
         <!-- /.content ----------------------------------------- -->
         <!-- --------------------------------------------------- -->
-        <div class="content" id="content">
-            <div class="content-left" id="content-left">
-                <?php include "content-left.php"; ?>
+            <div class="content" id="content">
+                <div class="content-left" id="content-left">
+                    <?php include "content-left.php"; ?>
+                </div>
+                <!-- ./content-left -->
+                <div class="content-right" id="content-right">
+                    <?php include "content-right.php"; ?>
+                </div>
+                <!-- ./content-right -->
             </div>
-            <!-- ./content-left -->
-            <div class="content-right" id="content-right">
-                <?php include "content-right.php"; ?>
-            </div>
-            <!-- ./content-right -->
-        </div>
-        <!-- ./content -->
+            <!-- ./content -->
 
         <!-- --------------------------------------------------- -->
         <!-- /.footer ------------------------------------------ -->
