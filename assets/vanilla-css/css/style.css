@@ -64,59 +64,11 @@
 
 .footer {
     background-color: #FCD0B1;
-    display: inline-block;
-    width: 1200px;
-    height: auto;
-    margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
-}
-
-.footer-top{
-    background-color: green;
     display: inline-flex;
+    justify-content: center;
+    align-items: center;
     width: 1200px;
-    height: auto;
-    margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
-}
-
-.footer-top-1{
-    background-color: blue;
-    display: inline-block;
-    width: 300px;
-    height: 300px;
-    margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
-}
-.footer-top-2{
-    background-color: red;
-    display: inline-block;
-    width: 300px;
-    height: 300px;
-    margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
-}
-.footer-top-3{
-    background-color: blue;
-    display: inline-block;
-    width: 300px;
-    height: 300px;
-    margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
-}
-.footer-top-4{
-    background-color: red;
-    display: inline-block;
-    width: 300px;
-    height: 300px;
-    margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
-}
-
-.footer-bottom{
-    background-color: yellow;
-    width: 1200px;
-    height: 100px;
+    height: 50px;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
 }

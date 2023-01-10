@@ -73,25 +73,7 @@
         <!-- /.footer ------------------------------------------ -->
         <!-- --------------------------------------------------- -->
         <div class="footer" id="footer">
-            <div class="footer-top">
-                <div class="footer-top-1">
-
-                </div>
-                <div class="footer-top-2">
-
-                </div>
-                <div class="footer-top-3">
-
-                </div>
-                <div class="footer-top-4">
-
-                </div>
-            </div>
-            <!-- ./footer-top -->
-            <div class="footer-bottom">
-                
-            </div>
-            <!-- ./footer-bottom -->
+            <p>Copyright 2022 all rights reserved by Aryajaya Alamsyah, S.Kom</p>
         </div>
         <!-- ./footer -->
 
@@ -105,4 +87,3 @@
 </body>
 
 </html>
-<!-- p>Copyright 2022 all rights reserved by Aryajaya Alamsyah, S.Kom</p -->
