@@ -55,6 +55,34 @@
 }
 
 /* ------------------------------------------------------ */
+/* CSS for box-footer ------------------------------------------ */
+/* ------------------------------------------------------ */
+.box-footer {
+    display: inline-block;
+    background-color: none;
+    width: inherit;
+    height: auto;
+    margin: 0px 0px 10px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.box-footer-header {
+    background-color: none;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 10px 0px 10px;
+}
+
+.box-footer-body {
+    background-color: none;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 5px 0px 5px;
+}
+
+/* ------------------------------------------------------ */
 /* CSS for table ---------------------------------------- */
 /* ------------------------------------------------------ */
 .show-table{

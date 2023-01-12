@@ -72,14 +72,82 @@
         <!-- --------------------------------------------------- -->
         <!-- /.footer ------------------------------------------ -->
         <!-- --------------------------------------------------- -->
-        <div class="footer" id="footer">
-            <p>Copyright 2022 all rights reserved by Aryajaya Alamsyah, S.Kom</p>
+        <div class="footer-top" id="footer-top">
+            <div class="footer-top-1" id="footer-top-1">
+                <div class="box-footer">
+                    <div class="box-footer-header">
+                        <p class="p-sub-header"><i class="fa-solid fa-school"></i> SMK Triguna Utama</p>
+                    </div>
+                    <!-- ./box-header -->
+                    <div class="box-footer-body">
+
+                    </div>
+                    <!-- ./box-body -->
+                </div>
+                <!-- ./box -->
+            </div>
+            <!-- ./footer-top-1 -->
+            <div class="footer-top-2" id="footer-top-2">
+                <div class="box-footer">
+                    <div class="box-footer-header">
+                        <p class="p-sub-header"><i class="fa-solid fa-graduation-cap"></i> Jurusan Kompetensi & Keahlian</p>
+                    </div>
+                    <!-- ./box-header -->
+                    <div class="box-footer-body">
+                        <ul class="ul-li-box">
+                            <li>Rekayasa Perangkat Lunak</li>
+                            <li>Teknik Komputer Jaringan</li>
+                            <li>Multimedia</li>
+                            <li>Teknik instalasi listrik</li>
+                            <li>Teknik mekanik industri</li>
+                            <li>Teknik kendaraan ringan</li>
+                            <li>Akutansi & lembaga keuangan</li>
+                            <li>Tata kelola perkantoran</li>
+                        </ul>
+                    </div>
+                    <!-- ./box-body -->
+                </div>
+                <!-- ./box -->
+            </div>
+            <!-- ./footer-top-2 -->
+            <div class="footer-top-3" id="footer-top-3">
+                <div class="box-footer">
+                    <div class="box-footer-header">
+                        <p class="p-sub-header"><i class="fa-solid fa-envelope"></i> Sosial Media</p>
+                    </div>
+                    <!-- ./box-header -->
+                    <div class="box-footer-body">
+                        <ul class="ul-li-box">
+                            <li><i class="fa-brands fa-youtube"></i> SMK Triguna Utama</li>
+                            <li><i class="fa-brands fa-facebook"></i> SMK Triguna Utama</li>
+                            <li><i class="fa-brands fa-instagram"></i> @smk3gu0ke</li>
+                            <li><i class="fa-brands fa-twitter"></i> @smk3gu0ke</li>
+                        </ul>
+                    </div>
+                    <!-- ./box-body -->
+                </div>
+                <!-- ./box -->
+            </div>
+            <!-- ./footer-top-3 -->
         </div>
-        <!-- ./footer -->
+        <!-- ./footer-top -->
+
+        <div class="footer-bottom" id="footer-bottom">
+            <div class="footer-bottom-1" id="footer-bottom-1">
+                
+                    
+            </div>
+            <!-- ./footer-bottom-1 -->
+            <div class="footer-bottom-2" id="footer-bottom-2">
+                
+            </div>
+            <!-- ./footer-bottom-2 -->
+        </div>
+        <!-- ./footer-bottom -->
 
     </div>
     <!-- ./wrapper -->
-
+                
     <!-- custom JS fontawesome for icon-icon website -->
     <script src="assets/fontawesome/js/fontawesome.js"></script>
     <script src="assets/fontawesome/js/brands.js"></script>
