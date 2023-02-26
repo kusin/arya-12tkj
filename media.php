@@ -43,6 +43,7 @@
         <div class="navbar" id="navbar">
             <nav>
                 <a class="a-nav" href="?page=home"><i class="fa-solid fa-home"></i> Home</a>
+                <a class="a-nav" href="?page=profil"><i class="fa-solid fa-book"></i> Berita</a>
                 <a class="a-nav" href="?page=profil"><i class="fa-solid fa-book"></i> Profil</a>
                 <a class="a-nav" href="?page=data-jurusan"><i class="fa-solid fa-graduation-cap"></i> Jurusan</a>
                 <a class="a-nav" href="?page=data-guru"><i class="fa-solid fa-user-graduate"></i> Data Guru</a>
