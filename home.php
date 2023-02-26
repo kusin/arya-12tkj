@@ -20,6 +20,50 @@
 </div>
 <!-- ./article -->
 
+<!-- --------------------------------------------------- -->
+<!-- /.sambutan kepala sekolah ------------------------- -->
+<!-- --------------------------------------------------- -->
+<div class="article">
+    <div class="article-header">
+        <h1 class="h-sub-header">Sambutan kepala sekolah smk triguna utama</h1>
+    </div>
+    <!-- ./article-header -->
+    <div class="article-body">
+        <p class="p-article">Assalamualaikum wr.wb.</p>
+        <p class="p-article">
+            Puji syukur kepada Alloh SWT, Tuhan Yang Maha Esa yang telah memberikan rahmat dan anugerah-Nya sehingga website SMK Triguna Utama Tangerang Selatan ini dapat terbit. Salah satu tujuan dari website ini adalah untuk menjawab akan setiap kebutuhan informasi dengan memanfaatkan sarana teknologi informasi yang ada. Kami sadar sepenuhnya dalam rangka memajukan pendidikan di era berkembangnya Teknologi Informasi yang begitu pesat, sangat diperlukan berbagai sarana prasarana yang kondusif, kebutuhan berbagai informasi guru, siswa, orangtua dan masyarakat, sehingga kami berusaha mewujudkan hal tersebut semaksimal mungkin. Semoga dengan adanya website ini dapat membantu dan bermanfaat, terutama informasi yang berhubungan dengan pendidikan, ilmu pengetahuan dan informasi seputar SMK Triguna Utama.
+        </p>
+        <p class="p-article">
+            Besar harapan kami, sarana ini dapat memberi manfaat bagi semua pihak yang ada dilingkup pendidikan dan pemerhati pendidikan secara khusus bagi SMK Triguna Utama Tangerang Selatan. Akhirnya kami mengharapkan masukan dari berbagai pihak untuk website ini agar kami terus belajar dan meng-update diri, sehingga tampilan, isi dan mutu website akan terus berkembang dan lebih baik nantinya. Terima kasih atas kerjasamanya, maju terus untuk mencapai SMK Triguna Utama Tangerang Selatan yang lebih baik lagi.
+        </p>
+        <p class="p-article">Wassalamu’alaikum wr.wb.</p>
+    </div>
+    <!-- ./article-body -->
+</div>
+<!-- ./article -->
+
+<!-- --------------------------------------------------- -->
+<!-- /.sambutan kepala sekolah ------------------------- -->
+<!-- --------------------------------------------------- -->
+<div class="article">
+    <div class="article-header">
+        <h1 class="h-sub-header">Sambutan kepala sekolah smk triguna utama</h1>
+    </div>
+    <!-- ./article-header -->
+    <div class="article-body">
+        <p class="p-article">Assalamualaikum wr.wb.</p>
+        <p class="p-article">
+            Puji syukur kepada Alloh SWT, Tuhan Yang Maha Esa yang telah memberikan rahmat dan anugerah-Nya sehingga website SMK Triguna Utama Tangerang Selatan ini dapat terbit. Salah satu tujuan dari website ini adalah untuk menjawab akan setiap kebutuhan informasi dengan memanfaatkan sarana teknologi informasi yang ada. Kami sadar sepenuhnya dalam rangka memajukan pendidikan di era berkembangnya Teknologi Informasi yang begitu pesat, sangat diperlukan berbagai sarana prasarana yang kondusif, kebutuhan berbagai informasi guru, siswa, orangtua dan masyarakat, sehingga kami berusaha mewujudkan hal tersebut semaksimal mungkin. Semoga dengan adanya website ini dapat membantu dan bermanfaat, terutama informasi yang berhubungan dengan pendidikan, ilmu pengetahuan dan informasi seputar SMK Triguna Utama.
+        </p>
+        <p class="p-article">
+            Besar harapan kami, sarana ini dapat memberi manfaat bagi semua pihak yang ada dilingkup pendidikan dan pemerhati pendidikan secara khusus bagi SMK Triguna Utama Tangerang Selatan. Akhirnya kami mengharapkan masukan dari berbagai pihak untuk website ini agar kami terus belajar dan meng-update diri, sehingga tampilan, isi dan mutu website akan terus berkembang dan lebih baik nantinya. Terima kasih atas kerjasamanya, maju terus untuk mencapai SMK Triguna Utama Tangerang Selatan yang lebih baik lagi.
+        </p>
+        <p class="p-article">Wassalamu’alaikum wr.wb.</p>
+    </div>
+    <!-- ./article-body -->
+</div>
+<!-- ./article -->
+
 
 <!-- --------------------------------------------------- -->
 <!-- /.jurusan kompetensi & keahlian ------------------- -->
